@@ -7,7 +7,7 @@ const MidImage = () => {
   
     // Mid Image Start Here -->
     <section className="px-6 md:px-100">
-        <div className="flex  bg-red-600">
+        <div className="flex">
             <Image 
                 src={midslider}  
                 alt="Contact Picture" 
